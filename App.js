@@ -12,14 +12,14 @@ export default function App() {
 
 //comit final
 /*
-echo "#aula01" >> README.md
+echo "# aula01" >> README.md
 git init
-git stataus -u
-git add.t
+git status -u
+git add .
 git status -u 
-git comimit -m "first commit"
-git config user e-mail "luis.woehl@escola.pr.gov.br"
-git config user name "luis"
+git commit -m "first commit"
+git config user.email "luis.woehl@escola.pr.gov.br"
+git config user.name "luisão Botafogo"
 git commit -m "first commit"
 git status -u
 git remote add origin "link"
